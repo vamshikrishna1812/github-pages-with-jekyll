@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+title: "ooad"
+date: 2021-08-30
 ---
 
 # Welcome
